@@ -1,6 +1,3 @@
-<div align="right"> <img align="right" width="120" src="https://i.ibb.co/vkXKFvc/ezgif-7-926060e06a.png" alt="kyaramero-gif"></div>
-<br>
-
 ```
 + Back-End developer | Full-Stack developer
 ```
@@ -11,8 +8,9 @@
 
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=damattag&theme=transparent" width="350px" alt="kyaramero-stats">
+
+<img src="https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly" width="385px" alt="damattag-streak">
+<img src="https://github-readme-stats.vercel.app/api?username=damattag&theme=transparent" width="350px" alt="damattag-stats">
 </div>
 
 <br>
