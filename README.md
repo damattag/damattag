@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly" width="385px" alt="damattag-streak">
+<img src="https://streak-stats.demolab.com?user=damattag&theme=transparent&title_color=F76C82&mode=weekly" width="385px" alt="damattag-streak">
 <img src="https://github-readme-stats.vercel.app/api?username=damattag&theme=transparent" width="350px" alt="damattag-stats">
 </div>
 
