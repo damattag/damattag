@@ -1,5 +1,5 @@
 ```
-+ Back-End developer | Full-Stack developer
++ Back-End developer
 ```
 <br>
 <p align="left">
