@@ -6,12 +6,11 @@
   <a href="https://github-readme-stats.vercel.app/api/pin/?username=damattag&repo=github-readme-stats">
 </p>
 
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=damattag&theme=transparent&title_color=F76C82&mode=weekly" width="385px" alt="damattag-streak">
-<img src="https://github-readme-stats.vercel.app/api?username=damattag&theme=transparent" width="350px" alt="damattag-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=damattag&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damattag&size_weight=0.5&count_weight=0.5&layout=compact&hide_title=false&theme=tokyonight" />
 </div>
+
 
 <br>
 
